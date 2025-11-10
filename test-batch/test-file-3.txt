@@ -1,0 +1,1 @@
+Test file 3 content - single commit test
